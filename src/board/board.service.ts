@@ -19,7 +19,7 @@ export class BoardService {
   }
 
   getArticleById(id: number) {
-    return this.articles.find((article) => article.id === id);
+    return this.articles.find((article) => { return article.id === id }); 
   }
 
   createArticle(title: string, content: string, password: number) {
