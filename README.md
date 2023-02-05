@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nest.js 입문 주차 강의에 사용된 코드입니다.
 
 ## Installation
 
